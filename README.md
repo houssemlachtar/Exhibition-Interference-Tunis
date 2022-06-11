@@ -4,7 +4,7 @@ An online art exhibition for https://intunis.net
 <br>
 <br>        
 <a href="https://houssemlachtar.github.io/Exhibition-Interference-Tunis/">
-        <img alt="Exhibition-Interference-Tunis.com" src="./img/Exhibition-Interference-Tunis.jpg" />
+        <img alt="Exhibition-Interference-Tunis.com" src="./img/Exhibition-Interference-Tunis.com.jpg" />
     </a>
 <br>
 <a href="https://houssemlachtar.github.io/Exhibition-Interference-Tunis/">
