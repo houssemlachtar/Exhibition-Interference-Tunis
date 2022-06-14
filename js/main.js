@@ -22,7 +22,6 @@
         };
     };
 
-    // from http://www.quirksmode.org/js/events_properties.html#position
     function getMousePos(e) {
         var posx = 0;
         var posy = 0;
